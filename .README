@@ -1,1 +1,6 @@
-// 2player TicTacToe Game with JFrames with GUI. Run through the test.java file. Also contains non-GUI version
+// Two versions of TicTacToe Game witt GUI and non-GUI versions.
+Non-GUI version has 1-player and 2-player options.
+GUI version is 2-player.
+
+Run through the test.java file. 
+
